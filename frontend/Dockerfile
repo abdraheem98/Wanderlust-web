@@ -30,4 +30,7 @@ EXPOSE 5173
 
 # Define the default command to run the application in development mode
 CMD ["npm", "run", "dev", "--", "--host"]
+<<<<<<< HEAD
 
+=======
+>>>>>>> 821754603a123e79ad63c29f6a638ecb5540036c
